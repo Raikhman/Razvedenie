@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html><head>
+   <title>ЭУМК по дисциплине&quot;Разведение сельскохозяйственных животных&quot;</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />   
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="robots" content="noindex,follow" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ 
+   <!-- This line includes the general project style sheet (not required) -->
+   <link type="text/css" href="default.css" rel="stylesheet" />
+
+   <!-- This block defines the styles of the TOC headings, change them as needed -->
+   <style type="text/css">
+       body { font-size: 1em }
+       .heading1 { color: #000; text-decoration: none; }
+       .heading2 { color: #000; text-decoration: none; }
+       .heading3 { color: #000; text-decoration: none; }
+       .heading4 { color: #000; text-decoration: none; }
+       .heading5 { color: #000; text-decoration: none; }
+       .heading6 { color: #000; text-decoration: none; }
+
+       .hilight1 { color: #FFFFFF; background: #2C5D88; text-decoration: none; }
+       .hilight2 { color: #FFFFFF; background: #2C5D88; text-decoration: none; }
+       .hilight3 { color: #FFFFFF; background: #2C5D88; text-decoration: none; }
+       .hilight4 { color: #FFFFFF; background: #2C5D88; text-decoration: none; }
+       .hilight5 { color: #FFFFFF; background: #2C5D88; text-decoration: none; }
+       .hilight6 { color: #FFFFFF; background: #2C5D88; text-decoration: none; }
+
+       /* TOC LIST CSS */
+       #toc    { padding:0; margin:0 }
+       #toc li { 
+			margin-top:2px; 
+			margin-left:0; 
+			padding: 1px;
+			background-position: 0px 3px !important;
+			background-size: 18px 18px !important;
+            padding-left: 23px !important;
+			}
+       #toc ul { padding-left:0; margin-left:0px }       
+       /* TOC LIST CSS */
+       
+       @media (pointer: coarse) {
+         body    { transform-origin: 0 0;
+		   transform:scale(1.25); 
+		   max-width: 80%;
+       }       
+   </style>
+   <script type="text/javascript" src="jquery.js"></script>
+   <script type="text/javascript" src="helpman_settings.js"></script>
+   <script type="text/javascript">
+   $(document).ready(function(){
+   	   var hiTest = /^hilight/im,
+			parentScope = (parent.hmNavigationFrame);
+		if (parentScope) parent.currentNav("toc");
+		$("a[class^='heading']").on("click",function(event){
+			var doSwipe = (hiTest.test($(this).children("span").first().attr("class")) || false || (parentScope && !parent.hmBrowser.nonDeskTouch));
+			if (doSwipe && parentScope) {
+			window.parent.showNav("toggle");
+			}
+			});
+     });
+   </script>
+      <script type="text/javascript">
+     var parentScope = (parent.hmNavigationFrame);
+     if (!parentScope) {
+		      var s = document.createElement("script");
+		      s.setAttribute("type","text/javascript");
+		      s.setAttribute("src", "helpman_navigation.js");
+		      document.getElementsByTagName("head")[0].appendChild(s);
+	    }
+     else {
+       if (initialtocstate != "expandall") parent.hmAddCss(document, "#toc li ul { display: none }");
+     }
+     function loadicons() { var icons = new Array(); for (i=0; i<arguments.length; i++) { icons[i] = new Image(); icons[i].src = arguments[i]; } }
+     function loadtoc() { if (parentScope) parent.loadstate(document.getElementById("toc")); else loadstate(document.getElementById("toc")); }
+     function savetoc() { if (parentScope) parent.savestate(document.getElementById("toc")); else savestate(document.getElementById("toc")); }
+     function clicked(node, event) { deselect(); if (parentScope) parent.hmNodeClicked(node, event); else hmNodeClicked(node, event); }
+     function dblclicked(node) { if (parentScope) parent.hmNodeDblclicked(node); else hmNodeDblclicked(node); }
+     function deselect() { if (window.getSelection) window.getSelection().removeAllRanges(); else if (document.selection) document.selection.empty(); }
+     $(document).ready(function(){
+       loadtoc();
+       $(window).onunload = savetoc;
+     });
+   </script>
+</head>
+<body>
+<ul id="toc" style="list-style-type:none;display:block;padding-left:0">
+<li class="heading1" id="i1" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a1" href="titulnik.html" target="hmcontent"><span class="heading1" id="s1">Титульный лист</span></a>
+</li>
+<li class="heading1" id="i2" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a2" href="vvedenie.html" target="hmcontent"><span class="heading1" id="s2">Введение</span></a>
+</li>
+<li class="heading1" id="i3" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a3" href="aboutautor.html" target="hmcontent"><span class="heading1" id="s3">Об авторах</span></a>
+</li>
+<li class="heading1" id="i4" data-bg="cicon1.png;cicon2.png" style="background:url(cicon2.png) no-repeat;cursor:pointer;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a4" href="teoreticrazdel.html" target="hmcontent"><span class="heading1" id="s4" ondblclick="return dblclicked(this)">Теоретический Раздел</span></a>
+<ul id="ul4" style="list-style-type:none">
+<li class="heading2" id="i4.1" data-bg="cicon1.png;cicon2.png" style="background:url(cicon2.png) no-repeat;cursor:pointer;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a4.1" href="lectures.html" target="hmcontent"><span class="heading2" id="s4.1" ondblclick="return dblclicked(this)">Лекции</span></a>
+<ul id="ul4.1" style="list-style-type:none">
+<li class="heading3" id="i4.1.1" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.1" href="lecture1.html" target="hmcontent"><span class="heading3" id="s4.1.1">Лекция 1</span></a>
+</li>
+<li class="heading3" id="i4.1.2" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.2" href="lecture2.html" target="hmcontent"><span class="heading3" id="s4.1.2">Лекция 2</span></a>
+</li>
+<li class="heading3" id="i4.1.3" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.3" href="lecture3.html" target="hmcontent"><span class="heading3" id="s4.1.3">Лекция 3</span></a>
+</li>
+<li class="heading3" id="i4.1.4" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.4" href="lecture4.html" target="hmcontent"><span class="heading3" id="s4.1.4">Лекция 4</span></a>
+</li>
+<li class="heading3" id="i4.1.5" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.5" href="lecture5.html" target="hmcontent"><span class="heading3" id="s4.1.5">Лекция 5</span></a>
+</li>
+<li class="heading3" id="i4.1.6" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.6" href="lecture6.html" target="hmcontent"><span class="heading3" id="s4.1.6">Лекция 6</span></a>
+</li>
+<li class="heading3" id="i4.1.7" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a4.1.7" href="lecture7.html" target="hmcontent"><span class="heading3" id="s4.1.7">Лекция 7</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="heading1" id="i5" data-bg="cicon1.png;cicon2.png" style="background:url(cicon2.png) no-repeat;cursor:pointer;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a5" href="practichrazdel.html" target="hmcontent"><span class="heading1" id="s5" ondblclick="return dblclicked(this)">Практический Раздел</span></a>
+<ul id="ul5" style="list-style-type:none">
+<li class="heading2" id="i5.1" data-bg="cicon1.png;cicon2.png" style="background:url(cicon2.png) no-repeat;cursor:pointer;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a5.1" href="laboratornyezaniatia.html" target="hmcontent"><span class="heading2" id="s5.1" ondblclick="return dblclicked(this)">Лабораторные занятия</span></a>
+<ul id="ul5.1" style="list-style-type:none">
+<li class="heading3" id="i5.1.1" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.1" href="lab1.html" target="hmcontent"><span class="heading3" id="s5.1.1">Экстерьер и конституция животных</span></a>
+</li>
+<li class="heading3" id="i5.1.2" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.2" href="lab1.html" target="hmcontent"><span class="heading3" id="s5.1.2">Лабораторная работа 1</span></a>
+</li>
+<li class="heading3" id="i5.1.3" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.3" href="lab2.html" target="hmcontent"><span class="heading3" id="s5.1.3">Лабораторная работа 2</span></a>
+</li>
+<li class="heading3" id="i5.1.4" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.4" href="lab3.html" target="hmcontent"><span class="heading3" id="s5.1.4">Лабораторная работа 3</span></a>
+</li>
+<li class="heading3" id="i5.1.5" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.5" href="lab4.html" target="hmcontent"><span class="heading3" id="s5.1.5">Лабораторная работа 4</span></a>
+</li>
+<li class="heading3" id="i5.1.6" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.6" href="lab5.html" target="hmcontent"><span class="heading3" id="s5.1.6">Лабораторная работа 5</span></a>
+</li>
+<li class="heading3" id="i5.1.7" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.7" href="lab6.html" target="hmcontent"><span class="heading3" id="s5.1.7">Лабораторная работа 6</span></a>
+</li>
+<li class="heading3" id="i5.1.8" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.8" href="lab7.html" target="hmcontent"><span class="heading3" id="s5.1.8">Лабораторная работа 7</span></a>
+</li>
+<li class="heading3" id="i5.1.9" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading3" id="a5.1.9" href="lab8.html" target="hmcontent"><span class="heading3" id="s5.1.9">Лабораторная работа 8</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="heading1" id="i6" data-bg="cicon1.png;cicon2.png" style="background:url(cicon2.png) no-repeat;cursor:pointer;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a6" href="kontrolznaniy.html" target="hmcontent"><span class="heading1" id="s6" ondblclick="return dblclicked(this)">Раздел Контроля Знаний</span></a>
+<ul id="ul6" style="list-style-type:none">
+<li class="heading2" id="i6.1" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a6.1" href="voprosynaeczamen.html" target="hmcontent"><span class="heading2" id="s6.1">Вопросы на экзамен</span></a>
+</li>
+<li class="heading2" id="i6.2" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a6.2" href="voprosynazachet.html" target="hmcontent"><span class="heading2" id="s6.2">Вопросы на зачет</span></a>
+</li>
+<li class="heading2" id="i6.3" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a6.3" href="voprosyblocki.html" target="hmcontent"><span class="heading2" id="s6.3">Вопросы блоки модули</span></a>
+</li>
+</ul>
+</li>
+<li class="heading1" id="i7" data-bg="cicon1.png;cicon2.png" style="background:url(cicon2.png) no-repeat;cursor:pointer;padding-left:20px" onclick="return clicked(this,event)"><a class="heading1" id="a7" href="-.html" target="hmcontent"><span class="heading1" id="s7" ondblclick="return dblclicked(this)">Вспомогательный Раздел</span></a>
+<ul id="ul7" style="list-style-type:none">
+<li class="heading2" id="i7.1" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a7.1" href="programmuchebn.html" target="hmcontent"><span class="heading2" id="s7.1">Программа Учебная</span></a>
+</li>
+<li class="heading2" id="i7.2" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a7.2" href="templan.html" target="hmcontent"><span class="heading2" id="s7.2">Тематические планы</span></a>
+</li>
+<li class="heading2" id="i7.3" style="background:url(cicon9.png) no-repeat;padding-left:20px" onclick="return clicked(this,event)"><a class="heading2" id="a7.3" href="new-topic.html" target="hmcontent"><span class="heading2" id="s7.3">Критерии оценки знаний</span></a>
+</li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript">loadicons('cicon9.png','cicon2.png','cicon1.png');</script>
+</body>
+</html>
