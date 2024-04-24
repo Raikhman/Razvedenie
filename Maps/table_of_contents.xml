@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="453894798159579" build="ALL" modified="2024-04-07T11:26:08.175Z" icon="0" href="Titulnik">
+    <caption translate="true">Титульный лист</caption>
+  </topicref>
+  <topicref type="topic" id="453892715464811" build="ALL" modified="2024-04-07T11:25:00.017Z" icon="0" href="Vvedenie">
+    <caption translate="true">Введение</caption>
+  </topicref>
+  <topicref type="topic" id="453895016663852" build="ALL" modified="2024-04-08T13:42:27.283Z" icon="0" href="AboutAutor">
+    <caption translate="true">Об авторах</caption>
+  </topicref>
+  <topicref type="topic" id="45391073222810" build="ALL" modified="2024-04-07T11:03:52.648Z" icon="0" href="TeoreticRazdel">
+    <caption translate="true">Теоретический Раздел</caption>
+    <topicref type="topic" id="453892555015176" build="ALL" modified="2024-04-07T11:11:35.890Z" icon="0" href="Lectures">
+      <caption translate="true">Лекции</caption>
+      <topicref type="topic" id="453893112833019" build="ALL" modified="2024-04-07T11:12:26.851Z" icon="0" href="Lecture1">
+        <caption translate="true">Лекция 1</caption>
+      </topicref>
+      <topicref type="topic" id="453893866269131" build="ALL" modified="2024-04-07T11:15:01.342Z" icon="0" href="Lecture2">
+        <caption translate="true">Лекция 2</caption>
+      </topicref>
+      <topicref type="topic" id="453894197415613" build="ALL" modified="2024-04-07T11:15:56.186Z" icon="0" href="Lecture3">
+        <caption translate="true">Лекция 3</caption>
+      </topicref>
+      <topicref type="topic" id="453893085370949" build="ALL" modified="2024-04-07T11:16:05.311Z" icon="0" href="Lecture4">
+        <caption translate="true">Лекция 4</caption>
+      </topicref>
+      <topicref type="topic" id="453895059647973" build="ALL" modified="2024-04-07T11:16:11.355Z" icon="0" href="Lecture5">
+        <caption translate="true">Лекция 5</caption>
+      </topicref>
+      <topicref type="topic" id="453894580461508" build="ALL" modified="2024-04-07T11:16:17.372Z" icon="0" href="Lecture6">
+        <caption translate="true">Лекция 6</caption>
+      </topicref>
+      <topicref type="topic" id="453893665613794" build="ALL" modified="2024-04-07T11:16:23.858Z" icon="0" href="Lecture7">
+        <caption translate="true">Лекция 7</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453892883988211" build="ALL" modified="2024-04-07T11:07:22.430Z" icon="0" href="PractichRazdel">
+    <caption translate="true">Практический Раздел</caption>
+    <topicref type="topic" id="45388431940401" build="ALL" modified="2024-04-07T12:11:46.252Z" icon="0" href="LaboratornyeZaniatia">
+      <caption translate="true">Лабораторные занятия</caption>
+      <topicref type="topic" id="453909041980640" build="ALL" modified="2024-04-09T21:26:04.712Z" icon="0" href="Lab1">
+        <caption translate="true">Экстерьер и конституция животных</caption>
+      </topicref>
+      <topicref type="topic" id="453919627386035" build="ALL" modified="2024-04-09T21:27:32.969Z" icon="0" href="Lab1">
+        <caption translate="true">Лабораторная работа 1</caption>
+      </topicref>
+      <topicref type="topic" id="453918897491716" build="ALL" modified="2024-04-09T21:30:49.005Z" icon="0" href="Lab2">
+        <caption translate="true">Лабораторная работа 2</caption>
+      </topicref>
+      <topicref type="topic" id="453920368599211" build="ALL" modified="2024-04-09T21:31:34.926Z" icon="0" href="Lab3">
+        <caption translate="true">Лабораторная работа 3</caption>
+      </topicref>
+      <topicref type="topic" id="453919298926614" build="ALL" modified="2024-04-09T21:31:49.790Z" icon="0" href="Lab4">
+        <caption translate="true">Лабораторная работа 4</caption>
+      </topicref>
+      <topicref type="topic" id="453920106662297" build="ALL" modified="2024-04-09T21:32:08.489Z" icon="0" href="Lab5">
+        <caption translate="true">Лабораторная работа 5</caption>
+      </topicref>
+      <topicref type="topic" id="453917907084590" build="ALL" modified="2024-04-09T21:32:23.086Z" icon="0" href="Lab6">
+        <caption translate="true">Лабораторная работа 6</caption>
+      </topicref>
+      <topicref type="topic" id="453917845797999" build="ALL" modified="2024-04-09T21:32:39.385Z" icon="0" href="Lab7">
+        <caption translate="true">Лабораторная работа 7</caption>
+      </topicref>
+      <topicref type="topic" id="453917632670375" build="ALL" modified="2024-04-09T21:32:56.402Z" icon="0" href="Lab8">
+        <caption translate="true">Лабораторная работа 8</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="45389512529812" build="ALL" modified="2024-04-07T11:09:22.730Z" icon="0" href="KontrolZnaniy">
+    <caption translate="true">Раздел Контроля Знаний</caption>
+    <topicref type="topic" id="453893572967484" build="ALL" modified="2024-04-07T12:33:48.932Z" icon="0" href="VoprosyNaEczamen">
+      <caption translate="true">Вопросы на экзамен</caption>
+    </topicref>
+    <topicref type="topic" id="45389591388396" build="ALL" modified="2024-04-07T12:34:27.623Z" icon="0" href="VoprosyNaZachet">
+      <caption translate="true">Вопросы на зачет</caption>
+    </topicref>
+    <topicref type="topic" id="453932597048161" build="ALL" modified="2024-04-11T09:10:56.953Z" icon="0" href="VoprosyBlocki">
+      <caption translate="true">Вопросы блоки модули</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453895009213778" build="ALL" modified="2024-04-07T11:10:37.104Z" icon="0" href="-">
+    <caption translate="true">Вспомогательный Раздел</caption>
+    <topicref type="topic" id="453893235648318" build="ALL" modified="2024-04-07T12:23:33.521Z" icon="0" href="ProgrammUchebn">
+      <caption translate="true">Программа Учебная</caption>
+    </topicref>
+    <topicref type="topic" id="453985149169679" build="ALL" modified="2024-04-16T17:12:07.968Z" icon="0" href="TemPlan">
+      <caption translate="true">Тематические планы</caption>
+    </topicref>
+    <topicref type="topic" id="453935164639958" build="ALL" modified="2024-04-11T09:12:29.772Z" icon="0" href="New-topic">
+      <caption translate="true">Критерии оценки знаний</caption>
+    </topicref>
+  </topicref>
+</map>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-08T13:25:57.726+03:00" lasteditedby="Qwe" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Лекции</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Лекции</para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Здесь даны презентации лекционного курса,</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">оформленные в формате MS Power Point</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Просмотр презентации зависит от настройки Вашего браузера.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">В некоторых браузерах может быть предложено сначала скачать презентацию,</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">и только зам открыть ее для просмотра</text><text style="font-family:&apos;Times New Roman CYR&apos;; font-size:14pt;">. </text></para>
+  </body>
+</topic>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-16T17:49:09.879+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Тематические планы</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Тематические планы</para>
+    </header>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="VSPOMOG\КАЛЕНДАРНО тем план лекции 1 семестр.pdf">Лекции 1 семестр</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="VSPOMOG\КАЛЕНДАРНО тем план лекции 2 семестр.pdf">Лекции 2 семестр</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="VSPOMOG\КАЛЕНДАРНО тем план лабораторные 1 семестр.pdf">Лабораторные 1 семестр</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="VSPOMOG\КАЛЕНДАРНО тем план лабораторные 2 семестр.pdf">Лабораторные 2 семестр</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="VSPOMOG\КАЛЕНДАРНО тем план лекции ССО.pdf">Лекции ССО</link></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="VSPOMOG\КАЛЕНДАРНО тем план лабораторные ССО.pdf">Лабораторные ССО</link></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

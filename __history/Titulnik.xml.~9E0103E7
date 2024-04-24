@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-11T12:57:56.205+03:00" lasteditedby="Qwe" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Титульный лист</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Титульный лист</para>
+    </header>
+    <para styleclass="Normal"><image src="ТитульникКомплекс.jpg" scale="22.77%" width="581" height="847" styleclass="Image Caption"></image></para>
+  </body>
+</topic>

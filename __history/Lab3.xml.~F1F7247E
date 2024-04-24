@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-09T21:56:53.463+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Лабораторная работа 3</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Лабораторная работа 3</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Дать характеристику животных разных типов консти-</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">туции по классификации П.Н. Кулешова. Данные занести в таблицу </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="PRACT\Тема 1 Экстерьер и конституция.pdf" style="font-size:14pt;">Открыть весь текст задания</link></para>
+  </body>
+</topic>

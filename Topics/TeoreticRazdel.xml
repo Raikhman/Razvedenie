@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-07T12:10:33.668+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Теоретический Раздел</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Теоретический Раздел</para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Теоретический раздел содержит материалы для теретического изучения учебной дисциплины &#160;объеме,</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">установленном учебным планом учреждения образования.</text></para>
+  </body>
+</topic>

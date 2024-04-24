@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-04-09T22:07:11.264+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Лабораторная работа 8</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Лабораторная работа 8</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">ПОДБОР СЕЛЬСКОХОЗЯЙСТВЕННЫХ ЖИВОТНЫХ</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Цель занятия: приобрести навыки анализа родословных на</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">предмет выявления родственных связей и родственного спаривания</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">животных; овладеть техникой вычисления коэффициента инбридинга</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">по формуле Райта-Кисловского, а также научиться анализировать</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">значения полученных при расчете величин.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">Материалы и учебные пособия: родословные животных раз-</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">личных видов с примерами использования инбридинга различных</text></para>
+    <para styleclass="Normal"><text style="font-size:14pt;">степеней; племенные книги животных.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><link displaytype="text" defaultstyle="true" type="filelink" href="PRACT\лаб8.pdf" style="font-size:14pt;">Открыть весь текст задания</link></para>
+  </body>
+</topic>
